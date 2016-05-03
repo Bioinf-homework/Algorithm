@@ -1,6 +1,6 @@
 
-a = [1,5,2,3]
-o = ['/','-','*']
+a = [1,1,2,2]
+o = ['+','/','-']
 
 n = len(a)
 
@@ -46,6 +46,7 @@ for l in range(1,n):
 print A
 
 print A[0][n-1]
+print B
 # k = B[0][n-1]
 # while 1:
 	
