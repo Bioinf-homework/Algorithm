@@ -1,6 +1,10 @@
 ##贪心##
 
 - [部分火炬](http://wenku.baidu.com/view/2fb65a32f78a6529647d5383.html)
+- 5-9
+  - 先按ai排序，再按bi排序。然后依次取吧。。（麻蛋想到天上去了。。）
+
+- [5-10](http://blog.csdn.net/hnust_xiehonghao/article/details/8676840)
 
 
 
