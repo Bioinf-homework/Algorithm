@@ -17,8 +17,8 @@ def func(num):
 	print flag
 # func('12349847653')
 
-s = '2132323456789'
-for i in s:
-	print i,
+s = '21323234567891'
+# for i in s:
+# 	print i,
 print '\n'
 func(s)
